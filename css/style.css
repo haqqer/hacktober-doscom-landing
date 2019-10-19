@@ -54,6 +54,10 @@ body {
           transform: translate(-50%, -50%);
 }
 
+.link {
+  margin: 0 20px;
+}
+
 .notfound {
   max-width: 767px;
   width: 100%;
